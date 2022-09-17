@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pestimated
 - 👀 I’m interested in OS, java, c++
-- 🌱 I’m currently learning c, java, python
+- 🌱 I’m currently learning c, java
 - 📫 How to reach me estimated_pcentury@hotmail.com
 
 <!---
